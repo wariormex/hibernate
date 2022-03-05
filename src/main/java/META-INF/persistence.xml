@@ -14,7 +14,7 @@
             <property name="javax.persistence.jdbc.driver"
     value="org.sqlite.JDBC" />
             <property name="javax.persistence.jdbc.url"
-    value="jdbc:sqlite:/Users/patriciaortegon/Documents/Personales/Mayab/Enero-Mayo2021/DB/JPA.db" />
+    value="jdbc:sqlite:C:\Users\wario\git\hibernate\Database\AlumnoJPA.db" />
             <property name="javax.persistence.jdbc.user" value="" />
             <property name="javax.persistence.jdbc.password"
     value="" />
